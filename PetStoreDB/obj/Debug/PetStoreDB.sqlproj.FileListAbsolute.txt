@@ -1,0 +1,6 @@
+C:\Users\Utilisateur\source\repos\PetStore\PetStoreDB\bin\Debug\PetStoreDB.dacpac
+C:\Users\Utilisateur\source\repos\PetStore\PetStoreDB\bin\Debug\PetStoreDB.dll
+C:\Users\Utilisateur\source\repos\PetStore\PetStoreDB\bin\Debug\PetStoreDB.pdb
+C:\Users\Utilisateur\source\repos\PetStore\PetStoreDB\obj\Debug\PetStoreDB.sqlprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\PetStore\PetStoreDB\obj\Debug\PetStoreDB.dll
+C:\Users\Utilisateur\source\repos\PetStore\PetStoreDB\obj\Debug\PetStoreDB.pdb

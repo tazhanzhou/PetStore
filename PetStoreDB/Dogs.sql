@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Dogs]
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+    [Name] NVARCHAR(50) NULL, 
+    [Color] NVARCHAR(50) NULL
+)
